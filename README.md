@@ -5,7 +5,8 @@ This Power BI dashboard provides a comprehensive analysis of sales data for a Su
 
 
 ## Dashboard Preview
-![Super Store Dashboard](Super-Store-Sale-Dashboard/Screenshot%202026-05-15%20160248.png)
+
+![Super Store Dashboard](Super-Store-Sale-Dashboard/screenshot/Screenshot%202026-05-15%20160248.png)
 ## Key Features
 - **Interactive Slicers:** Filter data by Region (Central, East, South, West).
 - **KPI Tracking:** Real-time visibility of Total Sales, Profit, and Orders.
